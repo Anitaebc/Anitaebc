@@ -32,7 +32,7 @@ Estou constantemente em busca de crescimento e aprendizado!
 Contato:
 <br>
 <br>
-<a rel="linkedin" href="www.linkedin.com/in/anitacarvalho"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a rel="www.linkedin.com/in/anitacarvalho." href="www.linkedin.com/in/anitacarvalho"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 Obrigada por visitar o meu perfil!
 
