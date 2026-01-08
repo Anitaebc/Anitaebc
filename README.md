@@ -28,8 +28,9 @@ O que estou estudando atualmente:
 
 **Feedbacks e sugestões são muito bem-vindos!**
 **Estou constantemente em busca de crescimento e aprendizado!**
-
-**Contato:**
+<br/>
+<br/>
+[![Anita stats](https://github-readme-stats.vercel.app/api?username=Anitaebc)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>
 **Linkedin:** www.linkedin.com/in/anitacarvalho
