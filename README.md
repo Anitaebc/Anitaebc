@@ -18,7 +18,7 @@ Aqui vc encontrará:
  - Exercícios e aplicações focadas em Front-End.
  - Testes de layout, responsividade e interatividade.
 
-Este Repositório é uma forma de vc acompanhar meu crescimento técnico, minha organização de código e meu comprometimento com aprendizagem.
+**Este Repositório é uma forma de vc acompanhar meu crescimento técnico, minha organização de código e meu comprometimento com aprendizagem.**
 
 O que estou estudando atualmente:
  - Javascript(lógica de programação, DOM, eventos)
@@ -26,15 +26,15 @@ O que estou estudando atualmente:
  - Estruturação de Projetos
  - Responsividade e Usabilidade
 
-Feedbacks e sugestões são muito bem-vindos!
-Estou constantemente em busca de crescimento e aprendizado!
+**Feedbacks e sugestões são muito bem-vindos!**
+**Estou constantemente em busca de crescimento e aprendizado!**
 
-Contato:
+**Contato:**
 <br/>
 <br/>
-Linkedin: www.linkedin.com/in/anitacarvalho
+**Linkedin:** www.linkedin.com/in/anitacarvalho
 <br/>
 <br/>
-Obrigada por visitar o meu perfil!
+**Obrigada por visitar o meu perfil!** :smiley::rocket::sparkles:
 
 
