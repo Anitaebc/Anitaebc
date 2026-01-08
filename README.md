@@ -1,4 +1,4 @@
-**Olá, seja bem vindo(a) ao meu Github.**
+**Olá, seja bem vindo(a) ao meu Github.**:dart:
 
 **Sou Anita Carvalho, sou uma programadora Front-End, atualmente estou aprendendo e criando projetos com:** 
 <br/>
@@ -30,10 +30,11 @@ Feedbacks e sugestões são muito bem-vindos!
 Estou constantemente em busca de crescimento e aprendizado!
 
 Contato:
-<br>
-<br>
-<a href="www.linkedin.com/in/anitacarvalho" target="_blank" rel="Linkedin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
+<br/>
+<br/>
+Linkedin: www.linkedin.com/in/anitacarvalho
+<br/>
+<br/>
 Obrigada por visitar o meu perfil!
 
 
