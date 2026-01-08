@@ -30,9 +30,6 @@ O que estou estudando atualmente:
 **Estou constantemente em busca de crescimento e aprendizado!**
 <br/>
 <br/>
-[![Anita stats](https://github-readme-stats.vercel.app/api?username=Anitaebc)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-<br/>
 **Linkedin:** www.linkedin.com/in/anitacarvalho
 <br/>
 <br/>
