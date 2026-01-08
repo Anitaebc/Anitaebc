@@ -11,7 +11,7 @@
 <br/>
 - iniciando o aprendizado em Javascript e React.
 
-**Sou formada em Análise e desenvolvimento de sistemas e estou em contante aprimoramento das minhas habilidades em programação.**
+**Sou formada em Análise e desenvolvimento de sistemas e estou em constante aprimoramento das minhas habilidades em programação.**
 
 Aqui vc encontrará:
  - Projetos praticos desenvolvidos durante meus estudos.
