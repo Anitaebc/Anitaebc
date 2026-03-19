@@ -1,6 +1,6 @@
 **Olá, seja bem vindo(a) ao meu Github.**:dart:
 
-**Sou Anita Carvalho, sou uma programadora Front-End, atualmente estou aprendendo e criando projetos com:** 
+**Sou Anita Carvalho, Formada em Análise e Desenvolvimento de sistemas, programadora Front-End e Back-End, atualmente estou aprendendo e criando projetos com:** 
 <br/>
 <br/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"/>
