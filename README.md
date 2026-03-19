@@ -21,7 +21,7 @@
 **Graduada em Análise e desenvolvimento de sistemas e estou em constante aprimoramento das minhas habilidades em programação, incio 07/2021 - conclusão 08/2025**
 <br/>
 <br/>
-**Graduanda em Licenciatura Letras-Libras, inicio 10/2025 conclusão em 2029**
+**Graduanda em Licenciatura Letras-Libras, inicio 10/2025 - conclusão em 2029**
 
 Aqui vc encontrará:
  - Projetos práticos desenvolvidos durante meus estudos.
