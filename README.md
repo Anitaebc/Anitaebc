@@ -9,6 +9,9 @@
 <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" alt="logo-css"/>
 <br/>
 <br/>
+<img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt= "logo-javascript" />
+<br/>
+<br/>
 - iniciando o aprendizado em Javascript e React.
 
 **Sou formada em Análise e desenvolvimento de sistemas e estou em constante aprimoramento das minhas habilidades em programação.**
