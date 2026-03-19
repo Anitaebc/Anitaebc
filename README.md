@@ -37,6 +37,8 @@ O que estou estudando atualmente:
  - Estruturação de Projetos
  - Responsividade e Usabilidade
 
+[![Anita stats](https://github-readme-stats.vercel.app/api?username=Anitaebc)](https://github.com/anuraghazra/github-readme-stats)
+
 **Feedbacks e sugestões são muito bem-vindos!**
 **Estou constantemente em busca de crescimento e aprendizado!**
 <br/>
