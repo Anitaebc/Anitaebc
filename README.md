@@ -14,11 +14,12 @@
 <br/>
 - iniciando o aprendizado em Nodejs e React.
 
-**Sou formada em Análise e desenvolvimento de sistemas e estou em constante aprimoramento das minhas habilidades em programação.**
+**Graduada em Análise e desenvolvimento de sistemas e estou em constante aprimoramento das minhas habilidades em programação, incio 07/2021 - conclusão 08/2025**
+**Graduanda em Licenciatura Letras-Libras, inicio 10/2025 conclusão em 2029**
 
 Aqui vc encontrará:
- - Projetos praticos desenvolvidos durante meus estudos.
- - Exercícios e aplicações focadas em Front-End.
+ - Projetos práticos desenvolvidos durante meus estudos.
+ - Exercícios e aplicações focadas em Front-End extendendo-se a Back-End.
  - Testes de layout, responsividade e interatividade.
 
 **Este Repositório é uma forma de vc acompanhar meu crescimento técnico, minha organização de código e meu comprometimento com aprendizagem.**
@@ -26,6 +27,7 @@ Aqui vc encontrará:
 O que estou estudando atualmente:
  - Javascript(lógica de programação, DOM, eventos)
  - Boas Praticas de Front-End
+ - Nodejs, Typescript e REACT
  - Estruturação de Projetos
  - Responsividade e Usabilidade
 
