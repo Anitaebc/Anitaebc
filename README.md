@@ -12,7 +12,12 @@
 <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt= "logo-javascript" />
 <br/>
 <br/>
-- iniciando o aprendizado em Nodejs e React.
+- iniciando o aprendizado em:
+  <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt= "logo-nodejs"/>
+  <br/>
+  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "logo-type"/>
+  <br/>
+  <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt = "logo-react"/>
 
 **Graduada em Análise e desenvolvimento de sistemas e estou em constante aprimoramento das minhas habilidades em programação, incio 07/2021 - conclusão 08/2025**
 <br/>
