@@ -9,7 +9,6 @@
 <br/>
 <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt= "logo-javascript" />
 <br/>
-<br/>
 
 - iniciando o desenvolvimento de habilidades em:
 
