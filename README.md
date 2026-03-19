@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-Começando a me aprender:
+- iniciando o aprendizado em:
 
   <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt= "logo-nodejs"/>
   <br/>
